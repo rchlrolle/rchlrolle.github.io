@@ -12,6 +12,7 @@ link -> https://github.com/rchlrolle/rchlrolle.github.io/blob/main/Data_Final_Pr
 
 
 ### Project 2: Superstore_Business_Analytics
+link -> https://github.com/rchlrolle/rchlrolle.github.io/blob/main/Superstore-20240101T020031Z-001.zip
 - **Description:** Followed Business proposition example in using excel. 
 - **Tools Used:** Excel
 
