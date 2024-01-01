@@ -5,7 +5,7 @@ I am passionate about data science and machine learning. Constantly learning and
 
 ## Projects
 ### Project 1: R_Final_Project 
-link -> [https://github.com/rchlrolle/rchlrolle.github.io/blob/main/Data_Final_Project.html]
+link -> https://github.com/rchlrolle/rchlrolle.github.io/blob/main/Data_Final_Project.html
 
 - **Description:** Students were tasked with explaining a package we reviewed in our Statistical Programming in R course. I chose to explain dplyr, ggplot, and the anova statistical test to learn more about the government payrolls reported by each state and position.
 - **Tools Used:** R, Rstudio, Excel
@@ -16,6 +16,8 @@ link -> [https://github.com/rchlrolle/rchlrolle.github.io/blob/main/Data_Final_P
 - **Tools Used:** Excel
 
 ### Project 3: Matlab_Final_Project
+link -> https://github.com/rchlrolle/rchlrolle.github.io/blob/main/Matlab_Final%20Project-20240101T010809Z-001.zip
+
 - **Description:** Used car crash data in California to predict how likely a driver will get into an accident.
 - **Tools Used:** Matlab
 
