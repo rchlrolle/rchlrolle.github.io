@@ -1,33 +1,30 @@
-# Rachel's  GitHub Portfolio
+# Rachel's GitHub Portfolio
 
 ## About Me
-I am passionate about data science and machine learning. Constantly learning and exploring new technologies.
+I am passionate about data science and machine learning, constantly learning and exploring new technologies.
 
 ## Projects
-### Project 1: R_Final_Project 
-link -> https://github.com/rchlrolle/rchlrolle.github.io/blob/main/Data_Final_Project.html
 
-- **Description:** Students were tasked with explaining a package we reviewed in our Statistical Programming in R course. I chose to explain dplyr, ggplot, and the anova statistical test to learn more about the government payrolls reported by each state and position.
+### Project 1: R_Final_Project
+- **Description:** Explaining dplyr, ggplot, and ANOVA statistical test to analyze government payrolls reported by each state and position.
 - **Tools Used:** R, Rstudio, Excel
-
+- **Link:** [R_Final_Project](https://github.com/rchlrolle/rchlrolle.github.io/blob/main/Data_Final_Project.html)
 
 ### Project 2: Superstore_Business_Analytics
-link -> https://github.com/rchlrolle/rchlrolle.github.io/blob/main/Superstore-20240101T020031Z-001.zip
-- **Description:** Followed Business proposition example in using excel. 
+- **Description:** Business proposition example using Excel.
 - **Tools Used:** Excel
+- **Link:** [Superstore_Business_Analytics](https://github.com/rchlrolle/rchlrolle.github.io/blob/main/Superstore-20240101T020031Z-001.zip)
 
 ### Project 3: Matlab_Final_Project
-link -> https://github.com/rchlrolle/rchlrolle.github.io/blob/main/Matlab_Final%20Project-20240101T010809Z-001.zip
-
-- **Description:** Used car crash data in California to predict how likely a driver will get into an accident.
+- **Description:** Predicting likelihood of car accidents using car crash data in California.
 - **Tools Used:** Matlab
+- **Link:** [Matlab_Final_Project](https://github.com/rchlrolle/rchlrolle.github.io/blob/main/Matlab_Final%20Project-20240101T010809Z-001.zip)
 
 ### Project 4: Python_Meal_Time
-link -> https://github.com/rchlrolle/rchlrolle.github.io/blob/main/meal%20python
-- **Description:** You will prompt the user by asking "what time is it?". Depending on the answer, the response will be "breakfast time", "lunch time", or "dinner time". Also, a function was created to interpret the user's input properly.
+- **Description:** Function to determine meal times based on user input.
 - **Tools Used:** Python, VS Studio
+- **Link:** [Python_Meal_Time](https://github.com/rchlrolle/rchlrolle.github.io/blob/main/meal%20python)
 
-  
 ## Skills
 - **Programming Languages:** R, Python, Matlab
 - **Data Visualization:** Tableau, Plotly
@@ -40,6 +37,5 @@ link -> https://github.com/rchlrolle/rchlrolle.github.io/blob/main/meal%20python
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/rachel-rolle-analyst/)
 - Email: rchlrolle@gmail.com
-
 
 ![Data Science](https://image-url.com/data-science-image)
