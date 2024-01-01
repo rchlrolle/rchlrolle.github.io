@@ -4,7 +4,7 @@
 I am passionate about data science and machine learning. Constantly learning and exploring new technologies.
 
 ## Projects
-### Project 1: R_Final_Projects
+### Project 1: R_Final_Project (Data_Final_Project.html)
 - **Description:** Students were tasked with explaining a package we reviewed in our [Statistical Programming in R] course. I chose to explain dplyr, ggplot, and the anova statistical test to learn more about the government payrolls reported by each state and position.
 - **Tools Used:** R, Rstudio, Excel
 
