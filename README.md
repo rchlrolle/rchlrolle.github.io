@@ -38,4 +38,3 @@ I am passionate about data science and machine learning, constantly learning and
 - [LinkedIn](https://www.linkedin.com/in/rachel-rolle-analyst/)
 - Email: rchlrolle@gmail.com
 
-![Data Science](https://image-url.com/data-science-image)
