@@ -1,7 +1,7 @@
 # Rachel's GitHub Portfolio
 
 ## About Me
-I am passionate about data science and machine learning, constantly learning and exploring new technologies.
+I am a M.S. Data Science student passionate about big data analytics, data visualization, and perdictive modeling using programming languages such as: R, Python, and Matlab. My areas of interests are Health, Finance, Business, and Transport Systems.
 
 ## Projects
 
@@ -33,6 +33,9 @@ I am passionate about data science and machine learning, constantly learning and
 - **Master of Science in Data Science**
   - *American University*, August 2024
   - Relevant Coursework: Natural Language Processing, Machine Learning, Big Data Analytics, Statistical Methods
+- - **Bachelor of Science in Exercise Science**
+  - *Stockton University*, May 2023
+  - Relevant Coursework: Problem Solving Using Matlab
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/rachel-rolle-analyst/)
