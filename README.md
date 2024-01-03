@@ -26,8 +26,8 @@ I am a M.S. Data Science student passionate about big data analytics, data visua
 - **Link:** [Python_Meal_Time](https://github.com/rchlrolle/rchlrolle.github.io/blob/main/meal%20python)
 
 ## Skills
-- **Programming Languages:** R, Python, Matlab
-- **Data Visualization:** Tableau, Plotly
+- **Technical Skills:** R, Python, Matlab, SQL, Quarto, social media mining
+- **Statistical Explanatory Methods:** Regression, Machine Learning
 
 ## Education
 - **Master of Science in Data Science**
