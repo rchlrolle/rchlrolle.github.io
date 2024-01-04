@@ -32,8 +32,8 @@ I am a M.S. Data Science student passionate about big data analytics, data visua
 ## Education
 - **Master of Science in Data Science**
   - *American University*, August 2024
-  - Relevant Coursework: Natural Language Processing, Machine Learning, Big Data Analytics, Statistical Methods
-- - **Bachelor of Science in Exercise Science**
+  - Relevant Coursework: Natural Language Processing, Machine Learning in Finance, Institute for Data Science/Big Data, Statistical Methods
+- **Bachelor of Science in Exercise Science**
   - *Stockton University*, May 2023
   - Relevant Coursework: Problem Solving Using Matlab
 
