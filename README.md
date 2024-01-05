@@ -13,7 +13,7 @@ I am a M.S. Data Science student passionate about big data analytics, data visua
 ### Project 2: Superstore_Business_Analytics
 - **Description:** Business proposition example using Excel.
 - **Tools Used:** Excel
-- **Link:** [Superstore_Business_Analytics](https://github.com/rchlrolle/rchlrolle.github.io/blob/main/Superstore-20240101T020031Z-001.zip)
+- **Link:** [Superstore_Business_Analytics](https://github.com/rchlrolle/superstore_business_analytics.git)
 
 ### Project 3: Matlab_Final_Project
 - **Description:** Predicting likelihood of car accidents using car crash data in California.
