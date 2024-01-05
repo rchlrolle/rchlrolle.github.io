@@ -18,7 +18,7 @@ I am a M.S. Data Science student passionate about big data analytics, data visua
 ### Project 3: Matlab_Final_Project
 - **Description:** Predicting likelihood of car accidents using car crash data in California.
 - **Tools Used:** Matlab
-- **Link:** [Matlab_Final_Project](https://github.com/rchlrolle/rchlrolle.github.io/blob/main/Matlab_Final%20Project-20240101T010809Z-001.zip)
+- **Link:** [Matlab_Final_Project](https://github.com/rchlrolle/car_accidents_matlab_project.git)
 
 ### Project 4: Python_Meal_Time
 - **Description:** Function to determine meal times based on user input.
