@@ -8,7 +8,7 @@ I am a M.S. Data Science student passionate about big data analytics, data visua
 ### Project 1: R_Final_Project
 - **Description:** Explaining dplyr, ggplot, and ANOVA statistical test to analyze government payrolls reported by each state and position.
 - **Tools Used:** R, Rstudio, Excel
-- **Link:** [R_Final_Project](https://github.com/rchlrolle/rchlrolle.github.io/blob/main/Data_Final_Project.html)
+- **Link:** [R_Final_Project](https://github.com/rchlrolle/R_final_project.git)
 
 ### Project 2: Superstore_Business_Analytics
 - **Description:** Business proposition example using Excel.
