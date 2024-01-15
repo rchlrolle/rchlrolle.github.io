@@ -26,7 +26,7 @@ I am a M.S. Data Science student passionate about big data analytics, data visua
 - **Link:** [Python_Meal_Time](https://github.com/rchlrolle/rchlrolle.github.io/blob/main/meal%20python)
 
 ## Skills
-- **Technical Skills:** R, Python, Matlab, SQL, Quarto, social media mining
+- **Technical Skills:** R, Python, Matlab, Github, Cloud Computing, Quarto, Social media mining, and Webscraping
 - **Statistical Explanatory Methods:** Regression, Machine Learning
 
 ## Education
