@@ -1,7 +1,7 @@
 # Rachel's GitHub Portfolio
 
 ## About Me
-I am a M.S. Data Science student passionate about big data analytics, data visualization, and perdictive modeling using programming languages such as: R, Python, and Matlab. My areas of interests are Health, Finance, Business, and Transport Systems.
+I am a M.S. Data Science student passionate about big data analytics, data visualization, and predictive modeling using programming languages such as: R, Python, and Matlab. My areas of interests are Health, Finance, Business, and Transport Systems.
 
 ## Projects
 
