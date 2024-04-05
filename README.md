@@ -28,7 +28,7 @@ I am a M.S. Data Science student passionate about big data, data visualization, 
 
 
 ## Skills
-- **Technical Skills:** R, Python, Matlab, Github, Cloud Computing, Quarto, Social media mining, and Webscraping
+- **Technical Skills:**  Git, R, Python, Matlab, SQL, Tableau
 - **Statistical Explanatory Methods:** Regression, Machine Learning
 
 ## Education
