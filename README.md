@@ -5,17 +5,17 @@ I am a M.S. Data Science student passionate about big data, data visualization, 
 
 ## Projects
 
-### Upcoming: Data Science Final Project
+### Upcoming: Data Science Final 
 - **Description:** In this group project we will analyze a dataset using data cleaning and data visualization techniques taught in class.
 - **Tools Used:** SQL, Tableau, R
 - **Link:** [Coming soon]()
 
-### In Progress: Deep Learning
+### In Progress: Deep Learning Final
 - **Description:** Using OneClass CNN to detect misinformation in tweets.
 - **Tools Used:** CNN
 - **Link:** [Coming soon]()
   
-### Natural Language Processing Project
+### Natural Language Processing Final
 - **Description:** Using OneClass Support Vector Machine to detect misinformation in tweets.
 - **Tools Used:** Python, VS Studio, OneClassSVM
 - **Link:** [NLP_Final_Project](https://github.com/rchlrolle/NLP_final_project)
