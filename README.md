@@ -1,29 +1,31 @@
 # Rachel's GitHub Portfolio
 
 ## About Me
-I am a M.S. Data Science student passionate about big data analytics, data visualization, and predictive modeling using programming languages such as: R, Python, and Matlab. My areas of interests are Health, Finance, Business, and Transport Systems.
+I am a M.S. Data Science student passionate about big data, data visualization, and predictive modeling using programming languages such as: R, Python, SQL, and Matlab. My areas of interest are Health, Finance, Business, and Transport Systems.
 
 ## Projects
 
-### Project 1: R_Final_Project
+### Natural Language Processing Project
+- **Description:** Using OneClass Support Vector Machine to detect misinformation in tweets.
+- **Tools Used:** Python, VS Studio, OneClassSVM
+- **Link:** [NLP_Final_Project](https://github.com/rchlrolle/rchlrolle.github.io/blob/main/meal%20python)
+
+### R_Final_Project
 - **Description:** Explaining dplyr, ggplot, and ANOVA statistical test to analyze government payrolls reported by each state and position.
 - **Tools Used:** R, Rstudio, Excel
 - **Link:** [R_Final_Project](https://github.com/rchlrolle/R_final_project.git)
 
-### Project 2: Superstore_Business_Analytics
-- **Description:** Business proposition example using Excel.
-- **Tools Used:** Excel
-- **Link:** [Superstore_Business_Analytics](https://github.com/rchlrolle/superstore_business_analytics.git)
-
-### Project 3: Matlab_Final_Project
+### Matlab_Final_Project
 - **Description:** Predicting likelihood of car accidents using car crash data in California.
 - **Tools Used:** Matlab
 - **Link:** [Matlab_Final_Project](https://github.com/rchlrolle/car_accidents_matlab_project.git)
 
-### Project 4: Python_Meal_Time
-- **Description:** Function to determine meal times based on user input.
-- **Tools Used:** Python, VS Studio
-- **Link:** [Python_Meal_Time](https://github.com/rchlrolle/rchlrolle.github.io/blob/main/meal%20python)
+### Superstore_Business_Analytics
+- **Description:** Business proposition example using Excel.
+- **Tools Used:** Excel
+- **Link:** [Superstore_Business_Analytics](https://github.com/rchlrolle/superstore_business_analytics.git)
+
+
 
 ## Skills
 - **Technical Skills:** R, Python, Matlab, Github, Cloud Computing, Quarto, Social media mining, and Webscraping
