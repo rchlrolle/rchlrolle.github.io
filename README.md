@@ -8,7 +8,7 @@ I am a M.S. Data Science student passionate about big data, data visualization, 
 ### Upcoming: Data Science Final Project
 - **Description:** In this group project we will analyze a dataset using data cleaning and data visualization techniques taught in class.
 - **Tools Used:** SQL, Tableau, R
-- **Link:** [Coming soon]
+- **Link:** [Coming soon]()
 
   
 ### Natural Language Processing Project
