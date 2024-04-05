@@ -10,6 +10,10 @@ I am a M.S. Data Science student passionate about big data, data visualization, 
 - **Tools Used:** SQL, Tableau, R
 - **Link:** [Coming soon]()
 
+### In Progress: Deep Learning
+- **Description:** Using OneClass CNN to detect misinformation in tweets.
+- **Tools Used:** CNN
+- **Link:** [Coming soon]()
   
 ### Natural Language Processing Project
 - **Description:** Using OneClass Support Vector Machine to detect misinformation in tweets.
