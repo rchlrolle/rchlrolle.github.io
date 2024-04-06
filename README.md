@@ -18,7 +18,7 @@ I am a M.S. Data Science student passionate about big data, data visualization, 
 ### Natural Language Processing Final
 - **Description:** Using OneClass Support Vector Machine to detect misinformation in tweets.
 - **Tools Used:** Python, VS Studio, OneClassSVM
-- **Link:** [NLP_Final_Project](https://github.com/rchlrolle/NLP_final_project)
+- **Link:** [NLP_Final_Project](https://github.com/rchlrolle/NLP_final_project/wiki/Misinformation-Detection-in-Twitter-Posts)
 
 ### R_Final_Project
 - **Description:** Explaining dplyr, ggplot, and ANOVA statistical test to analyze government payrolls reported by each state and position.
