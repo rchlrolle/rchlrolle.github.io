@@ -30,12 +30,6 @@ I am a M.S. Data Science student passionate about big data, data visualization, 
 - **Tools Used:** Matlab
 - **Link:** [Matlab_Final_Project](https://github.com/rchlrolle/car_accidents_matlab_project/wiki/Interactive-Matlab-Project-Using-Car-Accident-Data-In-California)
 
-### Superstore_Business_Analytics
-- **Description:** Business proposition example using Excel.
-- **Tools Used:** Excel
-- **Link:** [Superstore_Business_Analytics](https://github.com/rchlrolle/superstore_business_analytics.git)
-
-
 
 ## Skills
 - **Technical Skills:**  Git, R, Python, Matlab, SQL, Tableau
