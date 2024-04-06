@@ -23,7 +23,7 @@ I am a M.S. Data Science student passionate about big data, data visualization, 
 ### R_Final_Project
 - **Description:** Explaining dplyr, ggplot, and ANOVA statistical test to analyze government payrolls reported by each state and position.
 - **Tools Used:** R, Rstudio, Excel
-- **Link:** [R_Final_Project[]](https://github.com/rchlrolle/R_final_project/wiki/Dpylr-Package-Tutorial)
+- **Link:** [R_Final_Project](https://github.com/rchlrolle/R_final_project/wiki/Dpylr-Package-Tutorial)
 
 ### Matlab_Final_Project
 - **Description:** Predicting likelihood of car accidents using car crash data in California.
