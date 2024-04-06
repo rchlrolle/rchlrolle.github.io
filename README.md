@@ -28,7 +28,7 @@ I am a M.S. Data Science student passionate about big data, data visualization, 
 ### Matlab_Final_Project
 - **Description:** Predicting likelihood of car accidents using car crash data in California.
 - **Tools Used:** Matlab
-- **Link:** [Matlab_Final_Project](https://github.com/rchlrolle/car_accidents_matlab_project.git)
+- **Link:** [Matlab_Final_Project](https://github.com/rchlrolle/car_accidents_matlab_project/wiki/Interactive-Matlab-Project-Using-Car-Accident-Data-In-California)
 
 ### Superstore_Business_Analytics
 - **Description:** Business proposition example using Excel.
