@@ -14,7 +14,7 @@ As a Master’s student in Data Science, I have a deep passion for big data, dat
 ### Deep Learning Final
 - **Description:** Using OneClass CNN to detect misinformation in tweets.
 - **Tools Used:** CNN
-- **Link:** [Coming soon]()
+- **Link:** [Coming soon](https://github.com/rchlrolle/Deep_Learning_Project/wiki)
   
 ### Natural Language Processing Final
 - **Description:** Using OneClass Support Vector Machine to detect misinformation in tweets.
