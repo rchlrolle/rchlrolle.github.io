@@ -1,7 +1,8 @@
+
 # Rachel's GitHub Portfolio
 
 ## About Me
-I am a M.S. Data Science student passionate about big data, data visualization, and predictive modeling using programming languages such as: R, Python, SQL, and Matlab. My areas of interest are Health, Finance, Business, and Transport Systems.
+As a Master’s student in Data Science, I have a deep passion for big data, data visualization, and predictive modeling. I am proficient in programming languages including R, Python, SQL, and Matlab. My interests are diverse and span across Health, Finance, Business, and Transportation Systems.
 
 ## Projects
 
@@ -33,7 +34,7 @@ I am a M.S. Data Science student passionate about big data, data visualization, 
 
 ## Skills
 - **Technical Skills:**  Git, R, Python, Matlab, SQL, Tableau
-- **Statistical Explanatory Methods:** Regression, Machine Learning
+- **Statistical Explanatory Methods:** Anova test, F-test Lack of Fit, Checking Assumptions of SLR and MLR (QQ-Plot, Residual vs .Fitted Plot)
 
 ## Education
 - **Master of Science in Data Science**
