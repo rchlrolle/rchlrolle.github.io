@@ -34,7 +34,7 @@ As a Master’s student in Data Science, I have a deep passion for big data, dat
 
 ## Skills
 - **Technical Skills:**  Git, R, Python, Matlab, SQL, Tableau
-- **Statistical Explanatory Methods:** Anova test, F-Test Lack of Fit, Checking Assumptions of SLR (Simple Linear Regression) and MLR (Multiple Linear Regression),QQ-Plot, Residual vs Fitted Plot
+- **Statistical Explanatory Methods:** Anova test, F-Test Lack of Fit, Checking Assumptions of SLR (Simple Linear Regression) and MLR (Multiple Linear Regression), QQ-Plot, Residual vs Fitted Plot
 
 ## Education
 - **Master of Science in Data Science**
