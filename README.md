@@ -12,13 +12,13 @@ As a Master’s student in Data Science, I have a deep passion for big data, dat
 - **Link:** [Coming soon]()
 
 ### Deep Learning Final
-- **Description:** Using OneClass CNN to detect misinformation in tweets.
-- **Tools Used:** CNN
-- **Link:** [Coming soon](https://github.com/rchlrolle/Deep_Learning_Project/wiki)
+- **Description:** Using OneClass Convolutional Neural Networks (OC-CNN) to detect misinformation in tweets.
+- **Tools Used:** Python, VS Studio, Sklearn, Keras
+- **Link:** [DL_Final_Project](https://github.com/rchlrolle/Deep_Learning_Project/wiki)
   
 ### Natural Language Processing Final
 - **Description:** Using OneClass Support Vector Machine to detect misinformation in tweets.
-- **Tools Used:** Python, VS Studio, OneClassSVM
+- **Tools Used:** Python, VS Studio, Sklearn, OneClassSVM
 - **Link:** [NLP_Final_Project](https://github.com/rchlrolle/NLP_final_project/wiki/Misinformation-Detection-in-Twitter-Posts)
 
 ### R_Final_Project
