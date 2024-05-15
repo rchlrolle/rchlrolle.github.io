@@ -9,7 +9,7 @@ As a Master’s student in Data Science, I have a deep passion for big data, dat
 ### Exploratory Data Analysis
 - **Description:** The purpose of this project is to get a better understanding of the data provided and better familiarize myself with SQL, Tableau, and Python.
 - **Tools Used:** SQL (MySQL), Tableau, Python (Visual Studio)
-- **Link:** [Coming soon]()
+- **Link:** [Exploratory Data Analysis](https://github.com/rchlrolle/eda_climate/wiki)
 
 ### Deep Learning Final
 - **Description:** Using OneClass Convolutional Neural Networks (OC-CNN) to detect misinformation in tweets.
