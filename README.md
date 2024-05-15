@@ -6,9 +6,9 @@ As a Master’s student in Data Science, I have a deep passion for big data, dat
 
 ## Projects
 
-### Data Science Final 
-- **Description:** In this group project we will analyze a dataset using data cleaning and data visualization techniques taught in class.
-- **Tools Used:** SQL, Tableau, R
+### Exploratory Data Analysis
+- **Description:** The purpose of this project is to get a better understanding of the data provided and better familiarize myself with SQL, Tableau, and Python.
+- **Tools Used:** SQL (MySQL), Tableau, Python (Visual Studio)
 - **Link:** [Coming soon]()
 
 ### Deep Learning Final
