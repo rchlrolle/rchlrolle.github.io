@@ -7,7 +7,7 @@ As a Master’s student in Data Science, I have a deep passion for big data, dat
 ## Projects
 
 ### Statistical Machine Learning Final
-- **Description:** This project aims to predict whether an injury has occured in an accident. The following models were fitted for this classification problem: Logistic Regression, Quadratic Discriminant Analysis (QDA), Random Forest, and Support Vector Machine (SVM) 
+- **Description:** This project aims to predict whether an injury has occured in an car accident location in the Montgomery County area. The following models were fitted for this classification problem: Logistic Regression, Quadratic Discriminant Analysis (QDA), Random Forest, and Support Vector Machine (SVM) 
 - **Tools Used:** Excel, Rstudio
 - **Link:** [Maryland Crash Reports]()
 
