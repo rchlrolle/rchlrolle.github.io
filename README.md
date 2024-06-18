@@ -9,7 +9,7 @@ As a Master’s student in Data Science, I have a deep passion for big data, dat
 ### Statistical Machine Learning Final
 - **Description:** This project aims to predict whether an injury has occured in an car accident location in the Montgomery County area. The following models were fitted for this classification problem: Logistic Regression, Quadratic Discriminant Analysis (QDA), Random Forest, and Support Vector Machine (SVM) 
 - **Tools Used:** Excel, Rstudio
-- **Link:** [Maryland Crash Reports]()
+- **Link:** [Maryland Crash Reports](https://github.com/rchlrolle/stat_627_project)
 
 ### Exploratory Data Analysis
 - **Description:** The purpose of this project is to get a better understanding of the data provided and better familiarize myself with the SQL EDA process, Tableau, and Python visual tools.
