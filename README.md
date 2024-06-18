@@ -6,8 +6,13 @@ As a Master’s student in Data Science, I have a deep passion for big data, dat
 
 ## Projects
 
+### Statistical Machine Learning Final
+- **Description:** This project aims to predict whether an injury has occured in an accident. The following models were fitted for this classification problem: Logistic Regression, Quadratic Discriminant Analysis (QDA), Random Forest, and Support Vector Machine (SVM) 
+- **Tools Used:** Excel, Rstudio
+- **Link:** [Maryland Crash Reports]()
+
 ### Exploratory Data Analysis
-- **Description:** The purpose of this project is to get a better understanding of the data provided and better familiarize myself with SQL EDA, Tableau and Python visual tools.
+- **Description:** The purpose of this project is to get a better understanding of the data provided and better familiarize myself with the SQL EDA process, Tableau, and Python visual tools.
 - **Tools Used:** SQL (MySQL), Tableau, Python (Visual Studio)
 - **Link:** [Exploratory Data Analysis](https://github.com/rchlrolle/eda_climate/wiki)
 
