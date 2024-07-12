@@ -1,6 +1,4 @@
 
-# Rachel's GitHub Portfolio
-
 ## About Me
 I am a data enthusiast with a deep passion for big data, data visualization, and predictive modeling. I have demonstrated expertise in various programming languages including R, Python, SQL, and Matlab. My interests span across multiple domains including Health, Finance, Business, and Transportation Systems. I am dedicated to leveraging data to drive insights, make informed decisions, and solve complex problems.
 
@@ -26,8 +24,8 @@ I am a data enthusiast with a deep passion for big data, data visualization, and
 - **Tools Used:** Python, VS Studio, Sklearn, OneClassSVM
 - **Link:** [NLP_Final_Project](https://github.com/rchlrolle/NLP_final_project/wiki/Misinformation-Detection-in-Twitter-Posts)
 
-### Financial Inferential Statistics
-- **Description:** Explaining dplyr, ggplot, and ANOVA statistical test to analyze government payrolls reported by each state and position.
+### Dplyr Tutorial 
+- **Description:** Utilize dplyr package to analyze government payrolls reported by each state and position.
 - **Tools Used:** R, Rstudio, Excel
 - **Link:** [R_Final_Project](https://github.com/rchlrolle/R_final_project/wiki/Dpylr-Package-Tutorial)
 
